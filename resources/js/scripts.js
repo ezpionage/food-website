@@ -1,0 +1,3 @@
+/* global $ */
+/*eslint-env jquery*/
+
